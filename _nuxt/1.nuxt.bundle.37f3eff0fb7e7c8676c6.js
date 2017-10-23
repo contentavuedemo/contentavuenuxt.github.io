@@ -1,13 +1,13 @@
-webpackJsonp([3],{
+webpackJsonp([1],{
 
-/***/ 190:
+/***/ 191:
 /***/ (function(module, exports, __webpack_require__) {
 
 var Component = __webpack_require__(20)(
   /* script */
-  __webpack_require__(247),
+  __webpack_require__(248),
   /* template */
-  __webpack_require__(298),
+  __webpack_require__(301),
   /* styles */
   null,
   /* scopeId */
@@ -35,7 +35,7 @@ var Component = __webpack_require__(20)(
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-7ebe5011",
+  "data-v-555acb03",
   /* moduleIdentifier (server only) */
   null
 )
@@ -53,7 +53,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, "section[data-v-7ebe5011]{margin-bottom:10vh}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppSection.vue"],"names":[],"mappings":"AACA,yBACE,kBAAoB,CACrB","file":"AppSection.vue","sourcesContent":["\nsection[data-v-7ebe5011] {\n  margin-bottom: 10vh;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "section[data-v-555acb03]{margin-bottom:10vh}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppSection.vue"],"names":[],"mappings":"AACA,yBACE,kBAAoB,CACrB","file":"AppSection.vue","sourcesContent":["\nsection[data-v-555acb03] {\n  margin-bottom: 10vh;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -79,7 +79,7 @@ var content = __webpack_require__(195);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("91793158", content, true);
+var update = __webpack_require__(52)("f2165c5c", content, true);
 
 /***/ }),
 
@@ -93,11 +93,11 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(203),
   /* template */
-  __webpack_require__(218),
+  __webpack_require__(217),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-74a98cdd",
+  "data-v-1613134f",
   /* moduleIdentifier (server only) */
   null
 )
@@ -117,27 +117,32 @@ module.exports = Component.exports
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return findAllLatestRecipes; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return findHomePromotedArticlesAndRecipes; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return findAllRecipesByCategoryName; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_toConsumableArray__ = __webpack_require__(206);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_toConsumableArray___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_toConsumableArray__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__ContentaJsonApi__ = __webpack_require__(200);
-
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_toConsumableArray__ = __webpack_require__(206);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_toConsumableArray___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_toConsumableArray__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__contentaJsonApi__ = __webpack_require__(200);
 
 
 
 
 /**
+ * Functions to get content from Contenta JSON API
+ */
+
+var api = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_4__contentaJsonApi__["a" /* default */])("https://live-contentacms.pantheonsite.io");
+
+/**
  * @param {String} uuid
  */
 var findOneRecipeByUuid = function () {
-  var _ref = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(uuid) {
+  var _ref = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(uuid) {
     var query;
-    return __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
+    return __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
@@ -170,10 +175,10 @@ var findOneRecipeByUuid = function () {
 }();
 
 var findAllPromotedRecipes = function () {
-  var _ref2 = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee2() {
+  var _ref2 = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee2() {
     var limit = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 4;
     var query;
-    return __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee2$(_context2) {
+    return __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee2$(_context2) {
       while (1) {
         switch (_context2.prev = _context2.next) {
           case 0:
@@ -219,10 +224,10 @@ var findAllPromotedRecipes = function () {
 }();
 
 var findAllRecipesCategories = function () {
-  var _ref3 = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee3() {
+  var _ref3 = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee3() {
     var limit = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 20;
     var query;
-    return __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee3$(_context3) {
+    return __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee3$(_context3) {
       while (1) {
         switch (_context3.prev = _context3.next) {
           case 0:
@@ -251,10 +256,10 @@ var findAllRecipesCategories = function () {
 }();
 
 var findAllLatestRecipes = function () {
-  var _ref4 = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee4() {
+  var _ref4 = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee4() {
     var limit = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 4;
     var query;
-    return __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee4$(_context4) {
+    return __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee4$(_context4) {
       while (1) {
         switch (_context4.prev = _context4.next) {
           case 0:
@@ -286,9 +291,9 @@ var findAllLatestRecipes = function () {
 }();
 
 var findHomePromotedArticlesAndRecipes = function () {
-  var _ref5 = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee5(limit) {
+  var _ref5 = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee5(limit) {
     var promotedRecipes, promotedArticles;
-    return __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee5$(_context5) {
+    return __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee5$(_context5) {
       while (1) {
         switch (_context5.prev = _context5.next) {
           case 0:
@@ -338,8 +343,8 @@ var findHomePromotedArticlesAndRecipes = function () {
               },
               sort: '-created'
             });
-            return _context5.abrupt('return', __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.all([promotedRecipes, promotedArticles]).then(function (promisesValues) {
-              var data = [].concat(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_toConsumableArray___default()(promisesValues[0]), __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_toConsumableArray___default()(promisesValues[1])).sort(function (item1, item2) {
+            return _context5.abrupt('return', __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.all([promotedRecipes, promotedArticles]).then(function (promisesValues) {
+              var data = [].concat(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_toConsumableArray___default()(promisesValues[0]), __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_toConsumableArray___default()(promisesValues[1])).sort(function (item1, item2) {
                 return item1.createdAt > item2.createdAt;
               }).slice(0, limit);
               return data;
@@ -359,10 +364,10 @@ var findHomePromotedArticlesAndRecipes = function () {
 }();
 
 var findAllRecipesByCategoryName = function () {
-  var _ref6 = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee6(categoryName) {
+  var _ref6 = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee6(categoryName) {
     var limit = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 4;
     var query;
-    return __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee6$(_context6) {
+    return __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee6$(_context6) {
       while (1) {
         switch (_context6.prev = _context6.next) {
           case 0:
@@ -406,24 +411,16 @@ var findAllRecipesByCategoryName = function () {
   };
 }();
 
-/**
- * Functions to get content from Contenta JSON API
- */
-
-var api = new __WEBPACK_IMPORTED_MODULE_4__ContentaJsonApi__["a" /* default */]("https://live-contentacms.pantheonsite.io");
-
-
-
 /***/ }),
 
 /***/ 200:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_waterwheel__ = __webpack_require__(56);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_waterwheel___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_waterwheel__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_jsonapi_parse__ = __webpack_require__(55);
@@ -437,7 +434,7 @@ var api = new __WEBPACK_IMPORTED_MODULE_4__ContentaJsonApi__["a" /* default */](
  * reponses : it resolves relationships and included objects nicely.
  * 
  * Example usage : 
- *   const api = new ContentaJsonApi(https://mydomain.fr)
+ *   const api = contentaJsonApi(https://mydomain.fr)
  *   const datas = await api.get('recipes', queryParams)
  */
 
@@ -448,17 +445,17 @@ var api = new __WEBPACK_IMPORTED_MODULE_4__ContentaJsonApi__["a" /* default */](
   var waterwheel = new __WEBPACK_IMPORTED_MODULE_2_waterwheel___default.a({
     base: ServerBaseUrl,
     jsonapiPrefix: "api",
-    timeout: 2000,
+    timeout: 3000,
     accessCheck: false
   });
 
   return {
     get: function () {
-      var _ref = __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(uri) {
+      var _ref = __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(uri) {
         var queryParams = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
         var id = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : "";
         var response;
-        return __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
+        return __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
           while (1) {
             switch (_context.prev = _context.next) {
               case 0:
@@ -758,7 +755,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".columns .card[data-v-24c015f9]{height:100%}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/RecipesAsCards.vue"],"names":[],"mappings":"AACA,gCACE,WAAa,CACd","file":"RecipesAsCards.vue","sourcesContent":["\n.columns .card[data-v-24c015f9] {\n  height: 100%;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".columns .card[data-v-11e1c7eb]{height:100%}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/RecipesAsCards.vue"],"names":[],"mappings":"AACA,gCACE,WAAa,CACd","file":"RecipesAsCards.vue","sourcesContent":["\n.columns .card[data-v-11e1c7eb] {\n  height: 100%;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -773,7 +770,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".thumbnail[data-v-74a98cdd]{max-height:220px;overflow:hidden}.image.is-square[data-v-74a98cdd]{background-color:#f5f5f5}.card[data-v-74a98cdd]:hover{-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;top:-10px;-webkit-box-shadow:0 2px 30px;box-shadow:0 2px 30px}.card[data-v-74a98cdd]{height:100%;position:relative;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;top:0}.card .description[data-v-74a98cdd]{font-style:italic}.recipes .card .difficulty[data-v-74a98cdd]{margin-bottom:10px}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/RecipeAsCard.vue"],"names":[],"mappings":"AACA,4BACE,iBAAkB,AAClB,eAAiB,CAClB,AACD,kCACE,wBAA2B,CAC5B,AACD,6BACE,uCAAyC,AACzC,kCAAoC,AACpC,+BAAiC,AACjC,UAAW,AACX,8BAA+B,AACvB,qBAAuB,CAChC,AACD,uBACE,YAAa,AACb,kBAAmB,AACnB,uCAAyC,AACzC,kCAAoC,AACpC,+BAAiC,AACjC,KAAM,CACP,AACD,oCACE,iBAAkB,CACnB,AACD,4CACE,kBAAoB,CACrB","file":"RecipeAsCard.vue","sourcesContent":["\n.thumbnail[data-v-74a98cdd] {\n  max-height: 220px;\n  overflow: hidden;\n}\n.image.is-square[data-v-74a98cdd] {\n  background-color:whitesmoke\n}\n.card[data-v-74a98cdd]:hover {\n  -webkit-transition: all 0.2s ease-in-out;\n  -o-transition: all 0.2s ease-in-out;\n  transition: all 0.2s ease-in-out;\n  top: -10px;\n  -webkit-box-shadow: 0 2px 30px;\n          box-shadow: 0 2px 30px;\n}\n.card[data-v-74a98cdd] {\n  height: 100%;\n  position: relative;\n  -webkit-transition: all 0.3s ease-in-out;\n  -o-transition: all 0.3s ease-in-out;\n  transition: all 0.3s ease-in-out;\n  top: 0\n}\n.card .description[data-v-74a98cdd] {\n  font-style: italic\n}\n.recipes .card .difficulty[data-v-74a98cdd] {\n  margin-bottom: 10px;\n}\n\n"],"sourceRoot":""}]);
+exports.push([module.i, ".thumbnail[data-v-1613134f]{max-height:220px;overflow:hidden}.image.is-square[data-v-1613134f]{background-color:#f5f5f5}.card[data-v-1613134f]:hover{-webkit-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;top:-10px;-webkit-box-shadow:0 2px 30px;box-shadow:0 2px 30px}.card[data-v-1613134f]{height:100%;position:relative;-webkit-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;top:0}.card .description[data-v-1613134f]{font-style:italic}.recipes .card .difficulty[data-v-1613134f]{margin-bottom:10px}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/RecipeAsCard.vue"],"names":[],"mappings":"AACA,4BACE,iBAAkB,AAClB,eAAiB,CAClB,AACD,kCACE,wBAA2B,CAC5B,AACD,6BACE,uCAAyC,AACzC,kCAAoC,AACpC,+BAAiC,AACjC,UAAW,AACX,8BAA+B,AACvB,qBAAuB,CAChC,AACD,uBACE,YAAa,AACb,kBAAmB,AACnB,uCAAyC,AACzC,kCAAoC,AACpC,+BAAiC,AACjC,KAAM,CACP,AACD,oCACE,iBAAkB,CACnB,AACD,4CACE,kBAAoB,CACrB","file":"RecipeAsCard.vue","sourcesContent":["\n.thumbnail[data-v-1613134f] {\n  max-height: 220px;\n  overflow: hidden;\n}\n.image.is-square[data-v-1613134f] {\n  background-color:whitesmoke\n}\n.card[data-v-1613134f]:hover {\n  -webkit-transition: all 0.2s ease-in-out;\n  -o-transition: all 0.2s ease-in-out;\n  transition: all 0.2s ease-in-out;\n  top: -10px;\n  -webkit-box-shadow: 0 2px 30px;\n          box-shadow: 0 2px 30px;\n}\n.card[data-v-1613134f] {\n  height: 100%;\n  position: relative;\n  -webkit-transition: all 0.3s ease-in-out;\n  -o-transition: all 0.3s ease-in-out;\n  transition: all 0.3s ease-in-out;\n  top: 0\n}\n.card .description[data-v-1613134f] {\n  font-style: italic\n}\n.recipes .card .difficulty[data-v-1613134f] {\n  margin-bottom: 10px;\n}\n\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -787,7 +784,7 @@ var Component = __webpack_require__(20)(
   /* script */
   null,
   /* template */
-  __webpack_require__(220),
+  __webpack_require__(219),
   /* styles */
   null,
   /* scopeId */
@@ -808,7 +805,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(201),
   /* template */
-  __webpack_require__(219),
+  __webpack_require__(220),
   /* styles */
   null,
   /* scopeId */
@@ -829,7 +826,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(202),
   /* template */
-  __webpack_require__(217),
+  __webpack_require__(218),
   /* styles */
   null,
   /* scopeId */
@@ -857,7 +854,7 @@ var Component = __webpack_require__(20)(
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-24c015f9",
+  "data-v-11e1c7eb",
   /* moduleIdentifier (server only) */
   null
 )
@@ -897,19 +894,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('div', {
-    staticClass: "difficulty"
-  }, [_c('span', {
-    class: _vm.classes(_vm.difficulty)
-  }, [_vm._v(_vm._s(_vm.difficulty))])])
-},staticRenderFns: []}
-
-/***/ }),
-
-/***/ 218:
-/***/ (function(module, exports) {
-
-module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('nuxt-link', {
     attrs: {
       "to": '/recipes/' + _vm.recipe.id
@@ -943,7 +927,35 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ }),
 
+/***/ 218:
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: "difficulty"
+  }, [_c('span', {
+    class: _vm.classes(_vm.difficulty)
+  }, [_vm._v(_vm._s(_vm.difficulty))])])
+},staticRenderFns: []}
+
+/***/ }),
+
 /***/ 219:
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: "card"
+  }, [_c('div', {
+    staticClass: "card-image"
+  }, [_vm._t("image")], 2), _c('div', {
+    staticClass: "card-content"
+  }, [_vm._t("content")], 2)])
+},staticRenderFns: []}
+
+/***/ }),
+
+/***/ 220:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -964,21 +976,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ }),
 
-/***/ 220:
-/***/ (function(module, exports) {
-
-module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('div', {
-    staticClass: "card"
-  }, [_c('div', {
-    staticClass: "card-image"
-  }, [_vm._t("image")], 2), _c('div', {
-    staticClass: "card-content"
-  }, [_vm._t("content")], 2)])
-},staticRenderFns: []}
-
-/***/ }),
-
 /***/ 221:
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -989,7 +986,7 @@ var content = __webpack_require__(210);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("52690552", content, true);
+var update = __webpack_require__(52)("46304ffb", content, true);
 
 /***/ }),
 
@@ -1003,19 +1000,28 @@ var content = __webpack_require__(211);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("3bc47814", content, true);
+var update = __webpack_require__(52)("7acf2ad9", content, true);
 
 /***/ }),
 
-/***/ 239:
+/***/ 228:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/clock.54e3f46.svg";
+
+/***/ }),
+
+/***/ 237:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_RecipesAsCards__ = __webpack_require__(215);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_RecipesAsCards___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_RecipesAsCards__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_AppSection__ = __webpack_require__(194);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_AppSection___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__components_AppSection__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_RecipeAsDetail__ = __webpack_require__(277);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_RecipeAsDetail___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_RecipeAsDetail__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_RecipesAsCards__ = __webpack_require__(215);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_RecipesAsCards___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__components_RecipesAsCards__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_AppSection__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_AppSection___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__components_AppSection__);
 //
 //
 //
@@ -1025,33 +1031,150 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+
 
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
-  components: { RecipesAsCards: __WEBPACK_IMPORTED_MODULE_0__components_RecipesAsCards___default.a, AppSection: __WEBPACK_IMPORTED_MODULE_1__components_AppSection___default.a },
+  components: { RecipeAsDetail: __WEBPACK_IMPORTED_MODULE_0__components_RecipeAsDetail___default.a, RecipesAsCards: __WEBPACK_IMPORTED_MODULE_1__components_RecipesAsCards___default.a, AppSection: __WEBPACK_IMPORTED_MODULE_2__components_AppSection___default.a },
   props: {
-    recipes: { type: Array, default: function _default() {
-        return [];
-      } },
-    category: { type: Object, default: function _default() {} }
+    recipe: { type: Object, default: {} },
+    recipesByCategory: { type: Array, default: [] }
   }
 });
 
 /***/ }),
 
-/***/ 247:
+/***/ 241:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_ContentService__ = __webpack_require__(199);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_PageRecipesLatest__ = __webpack_require__(275);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_PageRecipesLatest___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__components_PageRecipesLatest__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_AppSection__ = __webpack_require__(194);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_AppSection___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_AppSection__);
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+
+
+/* harmony default export */ __webpack_exports__["default"] = ({
+  components: { AppSection: __WEBPACK_IMPORTED_MODULE_0__components_AppSection___default.a },
+  props: {
+    recipe: { type: Object, default: {} }
+  }
+});
+
+/***/ }),
+
+/***/ 248:
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__services_contentService__ = __webpack_require__(199);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_PageRecipesId__ = __webpack_require__(273);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_PageRecipesId___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__components_PageRecipesId__);
 
 
 //
@@ -1063,25 +1186,28 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   transition: 'page',
-  components: { PageRecipesLatest: __WEBPACK_IMPORTED_MODULE_3__components_PageRecipesLatest___default.a },
+  components: { PageRecipesId: __WEBPACK_IMPORTED_MODULE_3__components_PageRecipesId___default.a },
   asyncData: function () {
-    var _ref2 = __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(_ref) {
+    var _ref2 = __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(_ref) {
       var params = _ref.params;
-      var recipes;
-      return __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
+      var recipe, recipesByCategory;
+      return __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
         while (1) {
           switch (_context.prev = _context.next) {
             case 0:
               _context.next = 2;
-              return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__services_ContentService__["c" /* findAllLatestRecipes */])(20);
+              return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__services_contentService__["b" /* findOneRecipeByUuid */])(params.id);
 
             case 2:
-              recipes = _context.sent;
-              return _context.abrupt('return', {
-                recipes: recipes
-              });
+              recipe = _context.sent;
+              _context.next = 5;
+              return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_2__services_contentService__["a" /* findAllRecipesByCategoryName */])(recipe.category.name, 4);
 
-            case 4:
+            case 5:
+              recipesByCategory = _context.sent;
+              return _context.abrupt('return', { recipe: recipe, recipesByCategory: recipesByCategory });
+
+            case 7:
             case 'end':
               return _context.stop();
           }
@@ -1099,14 +1225,43 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 /***/ }),
 
-/***/ 275:
+/***/ 256:
+/***/ (function(module, exports, __webpack_require__) {
+
+exports = module.exports = __webpack_require__(51)(true);
+// imports
+
+
+// module
+exports.push([module.i, ".icons[data-v-8ff14b60]{width:50px}.what-you-need[data-v-8ff14b60]{margin-bottom:10vh}.method[data-v-8ff14b60]{padding:1.25rem 2.5rem 1.25rem 1.5rem}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/RecipeAsDetail.vue"],"names":[],"mappings":"AACA,wBACE,UAAY,CACb,AACD,gCACE,kBAAmB,CACpB,AACD,yBACE,qCAAuC,CACxC","file":"RecipeAsDetail.vue","sourcesContent":["\n.icons[data-v-8ff14b60] {\n  width: 50px;\n}\n.what-you-need[data-v-8ff14b60] {\n  margin-bottom:10vh;\n}\n.method[data-v-8ff14b60] {\n  padding: 1.25rem 2.5rem 1.25rem 1.5rem;\n}\n\n"],"sourceRoot":""}]);
+
+// exports
+
+
+/***/ }),
+
+/***/ 257:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/difficulty.dc0d19c.svg";
+
+/***/ }),
+
+/***/ 258:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "img/serves.ee57ed0.svg";
+
+/***/ }),
+
+/***/ 273:
 /***/ (function(module, exports, __webpack_require__) {
 
 var Component = __webpack_require__(20)(
   /* script */
-  __webpack_require__(239),
+  __webpack_require__(237),
   /* template */
-  __webpack_require__(295),
+  __webpack_require__(292),
   /* styles */
   null,
   /* scopeId */
@@ -1120,31 +1275,164 @@ module.exports = Component.exports
 
 /***/ }),
 
-/***/ 295:
+/***/ 277:
+/***/ (function(module, exports, __webpack_require__) {
+
+function injectStyle (ssrContext) {
+  __webpack_require__(311)
+}
+var Component = __webpack_require__(20)(
+  /* script */
+  __webpack_require__(241),
+  /* template */
+  __webpack_require__(302),
+  /* styles */
+  injectStyle,
+  /* scopeId */
+  "data-v-8ff14b60",
+  /* moduleIdentifier (server only) */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+
+/***/ 292:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return (_vm.recipes) ? _c('AppSection', [_c('div', {
+  return _c('div', [_c('RecipeAsDetail', {
+    attrs: {
+      "recipe": _vm.recipe
+    }
+  }), (_vm.recipe.category) ? _c('AppSection', [_c('div', {
     staticClass: "container"
   }, [_c('h3', {
-    staticClass: "title is-h3 has-text-centered"
-  }, [_vm._v(" Latest recipes ")]), _c('RecipesAsCards', {
+    staticClass: "title is-3 has-text-centered"
+  }, [_vm._v("More recipes from category\n        "), _c('strong', [_vm._v(_vm._s(_vm.recipe.category.name))])]), _c('RecipesAsCards', {
     attrs: {
-      "recipes": _vm.recipes
+      "recipes": _vm.recipesByCategory
     }
-  })], 1)]) : _vm._e()
+  })], 1)]) : _vm._e()], 1)
 },staticRenderFns: []}
 
 /***/ }),
 
-/***/ 298:
+/***/ 301:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('PageRecipesLatest', _vm._b({}, 'PageRecipesLatest', {
-    recipes: _vm.recipes
+  return _c('PageRecipesId', _vm._b({}, 'PageRecipesId', {
+    recipesByCategory: _vm.recipesByCategory,
+    recipe: _vm.recipe
   }))
 },staticRenderFns: []}
+
+/***/ }),
+
+/***/ 302:
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', [_c('AppSection', {
+    staticClass: "hero is-primary"
+  }, [_c('div', {
+    staticClass: "hero-body"
+  }, [_c('div', {
+    staticClass: "container"
+  }, [_c('h1', {
+    staticClass: "title is-1"
+  }, [_vm._v(" " + _vm._s(_vm.recipe.title) + " ")])])])]), _c('div', {
+    staticClass: "container"
+  }, [_c('AppSection', [_c('div', {
+    staticClass: "columns"
+  }, [_c('div', {
+    staticClass: "column"
+  }, [_c('figure', {
+    staticClass: "image is-3by2"
+  }, [_c('img', {
+    directives: [{
+      name: "lazy",
+      rawName: "v-lazy",
+      value: (_vm.recipe.image.thumbnail.url),
+      expression: "recipe.image.thumbnail.url"
+    }]
+  })])]), _c('div', {
+    staticClass: "column"
+  }, [_c('div', {
+    staticClass: "columns"
+  }, [_c('div', {
+    staticClass: "column has-text-centered"
+  }, [_c('div', [_c('img', {
+    staticClass: "icons",
+    attrs: {
+      "src": __webpack_require__(228)
+    }
+  })]), _vm._v("\n              Preparation Time :\n              "), _c('strong', [_vm._v(_vm._s(_vm.recipe.preparationTime) + " min ")])]), _c('div', {
+    staticClass: "column has-text-centered"
+  }, [_c('div', [_c('img', {
+    staticClass: "icons",
+    attrs: {
+      "src": __webpack_require__(228)
+    }
+  })]), _vm._v("\n              Cooking time :\n              "), _c('strong', [_vm._v(" " + _vm._s(_vm.recipe.totalTime) + " min")])])]), _c('div', {
+    staticClass: "columns"
+  }, [_c('div', {
+    staticClass: "column has-text-centered"
+  }, [_c('div', [_c('img', {
+    staticClass: "icons",
+    attrs: {
+      "src": __webpack_require__(258)
+    }
+  })]), _vm._v("\n              Serves :\n              "), _c('strong', [_vm._v(_vm._s(_vm.recipe.numberOfServices) + " persons ")])]), _c('div', {
+    staticClass: "column has-text-centered"
+  }, [_c('div', [_c('img', {
+    staticClass: "icons",
+    attrs: {
+      "src": __webpack_require__(257)
+    }
+  })]), _vm._v("\n              Difficulty :\n              "), _c('strong', [_vm._v(_vm._s(_vm.recipe.Difficulty))])])])])])]), _c('AppSection', [_c('h2', {
+    staticClass: "title is-2 has-text-centered what-you-need"
+  }, [_vm._v(" What you'll need and how to make this dish")])]), _c('AppSection', {
+    staticClass: "instructions"
+  }, [_c('div', {
+    staticClass: "columns"
+  }, [_c('div', {
+    staticClass: "column"
+  }, [_c('div', {
+    staticClass: "content notification"
+  }, [_c('h3', {
+    staticClass: "has-text-centered"
+  }, [_vm._v(" Ingredients ")]), _c('ul', {
+    staticClass: "ingredients"
+  }, _vm._l((_vm.recipe.ingredients), function(ingredient, index) {
+    return _c('li', {
+      key: index
+    }, [_vm._v("\n                " + _vm._s(ingredient) + "\n              ")])
+  }))])]), _c('div', {
+    staticClass: "column"
+  }, [_c('div', {
+    staticClass: "content method"
+  }, [_c('h3', {
+    staticClass: "title has-text-centered"
+  }, [_vm._v(" Method ")]), _c('p', [_vm._v("\n              " + _vm._s(_vm.recipe.instructions) + "\n            ")])])])])])], 1)], 1)
+},staticRenderFns: []}
+
+/***/ }),
+
+/***/ 311:
+/***/ (function(module, exports, __webpack_require__) {
+
+// style-loader: Adds some css to the DOM by adding a <style> tag
+
+// load the styles
+var content = __webpack_require__(256);
+if(typeof content === 'string') content = [[module.i, content, '']];
+if(content.locals) module.exports = content.locals;
+// add the styles to the DOM
+var update = __webpack_require__(52)("99a5451c", content, true);
 
 /***/ })
 

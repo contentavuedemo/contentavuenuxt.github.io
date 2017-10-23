@@ -5,14 +5,14 @@ webpackJsonp([10],{
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof__ = __webpack_require__(48);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__middleware__ = __webpack_require__(82);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__index__ = __webpack_require__(81);
@@ -27,12 +27,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 var _this6 = this;
 
 var render = function () {
-  var _ref = __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(to, from, next) {
+  var _ref = __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(to, from, next) {
     var _this3 = this;
 
     var layout, nextCalled, _next, context, Components, isValid, _layout;
 
-    return __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
+    return __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
@@ -163,11 +163,11 @@ var render = function () {
 
           case 45:
             _context.next = 47;
-            return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.all(Components.map(function (Component, i) {
+            return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.all(Components.map(function (Component, i) {
               // Check if only children route changed
               Component._path = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["c" /* compile */])(to.matched[i].path)(to.params);
               if (!_this3._hadError && Component._path === _lastPaths[i] && i + 1 !== Components.length) {
-                return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
+                return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
               }
               var promises = [];
               // asyncData method
@@ -181,15 +181,15 @@ var render = function () {
               }
               if (Component.options.fetch) {
                 var p = Component.options.fetch(context);
-                if (!p || !(p instanceof __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a) && typeof p.then !== 'function') {
-                  p = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(p);
+                if (!p || !(p instanceof __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a) && typeof p.then !== 'function') {
+                  p = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(p);
                 }
                 p.then(function () {
                   return _this3.$loading.increase && _this3.$loading.increase(30);
                 });
                 promises.push(p);
               }
-              return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.all(promises);
+              return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.all(promises);
             }));
 
           case 47:
@@ -266,7 +266,7 @@ function loadAsyncComponents(to, from, next) {
 
   var resolveComponents = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["f" /* flatMapComponents */])(to, function (Component, _, match, key) {
     if (typeof Component === 'function' && !Component.options) {
-      return new __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve, reject) {
+      return new __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve, reject) {
         var _resolve = function _resolve(Component) {
           Component = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["g" /* sanitizeComponent */])(Component);
           match.components[key] = Component;
@@ -285,7 +285,7 @@ function loadAsyncComponents(to, from, next) {
   if (!this._hashChanged) {
     this.$loading.start && this.$loading.start();
   }
-  __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.all(resolveComponents).then(function () {
+  __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.all(resolveComponents).then(function () {
     return next();
   }).catch(function (err) {
     var statusCode = err.statusCode || err.status || err.response && err.response.status || 500;
@@ -324,7 +324,7 @@ function callMiddleware(Components, context, layout) {
 
 function normalizeComponents(to, ___) {
   __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["f" /* flatMapComponents */])(to, function (Component, _, match, key) {
-    if ((typeof Component === 'undefined' ? 'undefined' : __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof___default()(Component)) === 'object' && !Component.options) {
+    if ((typeof Component === 'undefined' ? 'undefined' : __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof___default()(Component)) === 'object' && !Component.options) {
       // Updated via vue-router resolveAsyncComponents()
       Component = __WEBPACK_IMPORTED_MODULE_4_vue__["default"].extend(Component);
       Component._Ctor = Component;
@@ -403,7 +403,7 @@ function addHotReload($component, depth) {
     var Components = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["b" /* getMatchedComponents */])(router.currentRoute);
     var Component = Components[depth];
     if (!Component) return _forceUpdate();
-    if ((typeof Component === 'undefined' ? 'undefined' : __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof___default()(Component)) === 'object' && !Component.options) {
+    if ((typeof Component === 'undefined' ? 'undefined' : __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof___default()(Component)) === 'object' && !Component.options) {
       // Updated via vue-router resolveAsyncComponents()
       Component = __WEBPACK_IMPORTED_MODULE_4_vue__["default"].extend(Component);
       Component._Ctor = Component;
@@ -418,12 +418,12 @@ function addHotReload($component, depth) {
     _this5.$loading.start && _this5.$loading.start();
     callMiddleware.call(_this5, Components, context).then(function () {
       // If layout changed
-      if (depth !== 0) return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
+      if (depth !== 0) return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
       var layout = Component.options.layout || 'default';
       if (typeof layout === 'function') {
         layout = layout(context);
       }
-      if (_this5.layoutName === layout) return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
+      if (_this5.layoutName === layout) return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
       var promise = _this5.loadLayout(layout);
       promise.then(function () {
         _this5.setLayout(layout);
@@ -445,14 +445,14 @@ function addHotReload($component, depth) {
       // Call fetch()
       Component.options.fetch = Component.options.fetch || noopFetch;
       var pFetch = Component.options.fetch(context);
-      if (!pFetch || !(pFetch instanceof __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a) && typeof pFetch.then !== 'function') {
-        pFetch = __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(pFetch);
+      if (!pFetch || !(pFetch instanceof __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a) && typeof pFetch.then !== 'function') {
+        pFetch = __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(pFetch);
       }
       pFetch.then(function () {
         return _this5.$loading.increase && _this5.$loading.increase(30);
       });
       promises.push(pFetch);
-      return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.all(promises);
+      return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.all(promises);
     }).then(function () {
       _this5.$loading.finish && _this5.$loading.finish();
       _forceUpdate();
@@ -473,7 +473,7 @@ var resolveComponents = function resolveComponents(router) {
   var path = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["j" /* getLocation */])(router.options.base);
   return __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["f" /* flatMapComponents */])(router.match(path), function (Component, _, match, key, index) {
     if (typeof Component === 'function' && !Component.options) {
-      return new __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve, reject) {
+      return new __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve, reject) {
         var _resolve = function _resolve(Component) {
           Component = __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_7__utils__["g" /* sanitizeComponent */])(Component);
           if (NUXT.serverRendered) {
@@ -508,10 +508,10 @@ function nuxtReady(app) {
 }
 
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__index__["b" /* createApp */])().then(function () {
-  var _ref2 = __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee2(__app) {
+  var _ref2 = __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee2(__app) {
     var Components, _app, layout, mountApp;
 
-    return __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee2$(_context2) {
+    return __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee2$(_context2) {
       while (1) {
         switch (_context2.prev = _context2.next) {
           case 0:
@@ -519,7 +519,7 @@ __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__index__["b" /* createApp */])
             router = __app.router;
             store = __app.store;
             _context2.next = 5;
-            return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.all(resolveComponents(router));
+            return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.all(resolveComponents(router));
 
           case 5:
             Components = _context2.sent;
@@ -636,35 +636,35 @@ __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_6__index__["b" /* createApp */])
 
 __WEBPACK_IMPORTED_MODULE_0_vue__["default"].use(__WEBPACK_IMPORTED_MODULE_1_vue_router__["default"]);
 
-var _d32fdee4 = function _d32fdee4() {
+var _5cd45b92 = function _5cd45b92() {
 		return __webpack_require__.e/* import() */(0).then(__webpack_require__.bind(null, 187));
 };
 
-var _ef2b2d84 = function _ef2b2d84() {
+var _226f3b96 = function _226f3b96() {
 		return __webpack_require__.e/* import() */(7).then(__webpack_require__.bind(null, 193));
 };
 
-var _29a51b1d = function _29a51b1d() {
+var _64407ed8 = function _64407ed8() {
 		return __webpack_require__.e/* import() */(8).then(__webpack_require__.bind(null, 189));
 };
 
-var _e4128848 = function _e4128848() {
+var _968a9176 = function _968a9176() {
 		return __webpack_require__.e/* import() */(6).then(__webpack_require__.bind(null, 186));
 };
 
-var _29a56766 = function _29a56766() {
+var _7068fe9d = function _7068fe9d() {
 		return __webpack_require__.e/* import() */(3).then(__webpack_require__.bind(null, 190));
 };
 
-var _41de03a4 = function _41de03a4() {
+var _78e80c4d = function _78e80c4d() {
 		return __webpack_require__.e/* import() */(2).then(__webpack_require__.bind(null, 192));
 };
 
-var _77a09f0c = function _77a09f0c() {
+var _5bb6bdf5 = function _5bb6bdf5() {
 		return __webpack_require__.e/* import() */(1).then(__webpack_require__.bind(null, 191));
 };
 
-var _3a26dcb0 = function _3a26dcb0() {
+var _144cb8c2 = function _144cb8c2() {
 		return __webpack_require__.e/* import() */(4).then(__webpack_require__.bind(null, 188));
 };
 
@@ -701,35 +701,35 @@ function createRouter() {
 				scrollBehavior: scrollBehavior,
 				routes: [{
 						path: "/",
-						component: _d32fdee4,
+						component: _5cd45b92,
 						name: "index"
 				}, {
 						path: "/server-unreachable",
-						component: _ef2b2d84,
+						component: _226f3b96,
 						name: "server-unreachable"
 				}, {
 						path: "/recipes-category",
-						component: _29a51b1d,
+						component: _64407ed8,
 						name: "recipes-category"
 				}, {
 						path: "/contact",
-						component: _e4128848,
+						component: _968a9176,
 						name: "contact"
 				}, {
 						path: "/recipes-latest",
-						component: _29a56766,
+						component: _7068fe9d,
 						name: "recipes-latest"
 				}, {
 						path: "/recipes",
-						component: _41de03a4,
+						component: _78e80c4d,
 						name: "recipes"
 				}, {
 						path: "/recipes/:id",
-						component: _77a09f0c,
+						component: _5bb6bdf5,
 						name: "recipes-id"
 				}, {
 						path: "/recipes-category/:category",
-						component: _3a26dcb0,
+						component: _144cb8c2,
 						name: "recipes-category-category"
 				}]
 		});
@@ -742,10 +742,10 @@ function createRouter() {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return createStore; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_vue__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_vuex__ = __webpack_require__(28);
 
@@ -783,7 +783,7 @@ if (typeof storeData !== 'function') {
   var _iteratorError = undefined;
 
   try {
-    for (var _iterator = __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator___default()(filenames), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+    for (var _iterator = __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator___default()(filenames), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
       var filename = _step.value;
 
       var name = filename.replace(/^\.\//, '').replace(/\.(js|ts)$/, '');
@@ -814,7 +814,7 @@ if (typeof storeData !== 'function') {
 
 // createStore
 var createStore = storeData instanceof Function ? storeData : function () {
-  return new __WEBPACK_IMPORTED_MODULE_3_vuex__["default"].Store(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign___default()({}, storeData, {
+  return new __WEBPACK_IMPORTED_MODULE_3_vuex__["default"].Store(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign___default()({}, storeData, {
     state: storeData.state instanceof Function ? storeData.state() : {}
   }));
 };
@@ -938,8 +938,8 @@ var createStore = function createStore() {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_nuxt_loading_vue__ = __webpack_require__(168);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_nuxt_loading_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__components_nuxt_loading_vue__);
 
@@ -990,7 +990,7 @@ var layouts = {
       if (!layout || !layouts['_' + layout]) layout = 'default';
       var _layout = '_' + layout;
       if (typeof layouts[_layout] !== 'function') {
-        return __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(layouts[_layout]);
+        return __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(layouts[_layout]);
       }
       return layouts[_layout]().then(function (Component) {
         layouts[_layout] = Component;
@@ -1213,7 +1213,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".error-page[data-v-09ceea66]{color:#000;background:#fff;top:0;bottom:0;left:0;right:0;position:absolute;font-family:SF UI Text,Helvetica Neue,Lucida Grande;text-align:center;padding-top:20%}.error-code[data-v-09ceea66]{display:inline-block;font-size:24px;font-weight:500;vertical-align:top;border-right:1px solid rgba(0,0,0,.298039);margin:0 20px 0 0;padding:10px 23px}.error-wrapper-message[data-v-09ceea66]{display:inline-block;text-align:left;line-height:49px;height:49px;vertical-align:middle}.error-message[data-v-09ceea66]{font-size:14px;font-weight:400;margin:0;padding:0}.error-link[data-v-09ceea66]{color:#00bcd4;font-weight:400;text-decoration:none;font-size:14px}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/.nuxt/components/nuxt-error.vue"],"names":[],"mappings":"AACA,6BACE,WAAY,AACZ,gBAAiB,AACjB,MAAO,AACP,SAAU,AACV,OAAQ,AACR,QAAS,AACT,kBAAmB,AACnB,oDAA6D,AAC7D,kBAAmB,AACnB,eAAiB,CAClB,AACD,6BACE,qBAAsB,AACtB,eAAgB,AAChB,gBAAiB,AACjB,mBAAoB,AACpB,2CAAgD,AAChD,kBAAyB,AACzB,iBAAmB,CACpB,AACD,wCACE,qBAAsB,AACtB,gBAAiB,AACjB,iBAAkB,AAClB,YAAa,AACb,qBAAuB,CACxB,AACD,gCACE,eAAgB,AAChB,gBAAoB,AACpB,SAAY,AACZ,SAAa,CACd,AACD,6BACE,cAAe,AACf,gBAAoB,AACpB,qBAAsB,AACtB,cAAgB,CACjB","file":"nuxt-error.vue","sourcesContent":["\n.error-page[data-v-09ceea66] {\n  color: #000;\n  background: #fff;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  position: absolute;\n  font-family: \"SF UI Text\", \"Helvetica Neue\", \"Lucida Grande\";\n  text-align: center;\n  padding-top: 20%;\n}\n.error-code[data-v-09ceea66] {\n  display: inline-block;\n  font-size: 24px;\n  font-weight: 500;\n  vertical-align: top;\n  border-right: 1px solid rgba(0, 0, 0, 0.298039);\n  margin: 0px 20px 0px 0px;\n  padding: 10px 23px;\n}\n.error-wrapper-message[data-v-09ceea66] {\n  display: inline-block;\n  text-align: left;\n  line-height: 49px;\n  height: 49px;\n  vertical-align: middle;\n}\n.error-message[data-v-09ceea66] {\n  font-size: 14px;\n  font-weight: normal;\n  margin: 0px;\n  padding: 0px;\n}\n.error-link[data-v-09ceea66] {\n  color: #00BCD4;\n  font-weight: normal;\n  text-decoration: none;\n  font-size: 14px;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".error-page[data-v-2695883f]{color:#000;background:#fff;top:0;bottom:0;left:0;right:0;position:absolute;font-family:SF UI Text,Helvetica Neue,Lucida Grande;text-align:center;padding-top:20%}.error-code[data-v-2695883f]{display:inline-block;font-size:24px;font-weight:500;vertical-align:top;border-right:1px solid rgba(0,0,0,.298039);margin:0 20px 0 0;padding:10px 23px}.error-wrapper-message[data-v-2695883f]{display:inline-block;text-align:left;line-height:49px;height:49px;vertical-align:middle}.error-message[data-v-2695883f]{font-size:14px;font-weight:400;margin:0;padding:0}.error-link[data-v-2695883f]{color:#00bcd4;font-weight:400;text-decoration:none;font-size:14px}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/.nuxt/components/nuxt-error.vue"],"names":[],"mappings":"AACA,6BACE,WAAY,AACZ,gBAAiB,AACjB,MAAO,AACP,SAAU,AACV,OAAQ,AACR,QAAS,AACT,kBAAmB,AACnB,oDAA6D,AAC7D,kBAAmB,AACnB,eAAiB,CAClB,AACD,6BACE,qBAAsB,AACtB,eAAgB,AAChB,gBAAiB,AACjB,mBAAoB,AACpB,2CAAgD,AAChD,kBAAyB,AACzB,iBAAmB,CACpB,AACD,wCACE,qBAAsB,AACtB,gBAAiB,AACjB,iBAAkB,AAClB,YAAa,AACb,qBAAuB,CACxB,AACD,gCACE,eAAgB,AAChB,gBAAoB,AACpB,SAAY,AACZ,SAAa,CACd,AACD,6BACE,cAAe,AACf,gBAAoB,AACpB,qBAAsB,AACtB,cAAgB,CACjB","file":"nuxt-error.vue","sourcesContent":["\n.error-page[data-v-2695883f] {\n  color: #000;\n  background: #fff;\n  top: 0;\n  bottom: 0;\n  left: 0;\n  right: 0;\n  position: absolute;\n  font-family: \"SF UI Text\", \"Helvetica Neue\", \"Lucida Grande\";\n  text-align: center;\n  padding-top: 20%;\n}\n.error-code[data-v-2695883f] {\n  display: inline-block;\n  font-size: 24px;\n  font-weight: 500;\n  vertical-align: top;\n  border-right: 1px solid rgba(0, 0, 0, 0.298039);\n  margin: 0px 20px 0px 0px;\n  padding: 10px 23px;\n}\n.error-wrapper-message[data-v-2695883f] {\n  display: inline-block;\n  text-align: left;\n  line-height: 49px;\n  height: 49px;\n  vertical-align: middle;\n}\n.error-message[data-v-2695883f] {\n  font-size: 14px;\n  font-weight: normal;\n  margin: 0px;\n  padding: 0px;\n}\n.error-link[data-v-2695883f] {\n  color: #00BCD4;\n  font-weight: normal;\n  text-decoration: none;\n  font-size: 14px;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -1228,7 +1228,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".progress[data-v-0d7808c1]{position:fixed;top:0;left:0;right:0;height:2px;width:0;-webkit-transition:width .2s,opacity .4s;-o-transition:width .2s,opacity .4s;transition:width .2s,opacity .4s;opacity:1;background-color:#efc14e;z-index:999999}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/.nuxt/components/nuxt-loading.vue"],"names":[],"mappings":"AACA,2BACE,eAAgB,AAChB,MAAS,AACT,OAAU,AACV,QAAW,AACX,WAAY,AACZ,QAAU,AACV,yCAA6C,AAC7C,oCAAwC,AACxC,iCAAqC,AACrC,UAAW,AACX,yBAA0B,AAC1B,cAAgB,CACjB","file":"nuxt-loading.vue","sourcesContent":["\n.progress[data-v-0d7808c1] {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  right: 0px;\n  height: 2px;\n  width: 0%;\n  -webkit-transition: width 0.2s, opacity 0.4s;\n  -o-transition: width 0.2s, opacity 0.4s;\n  transition: width 0.2s, opacity 0.4s;\n  opacity: 1;\n  background-color: #efc14e;\n  z-index: 999999;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".progress[data-v-4dab71b3]{position:fixed;top:0;left:0;right:0;height:2px;width:0;-webkit-transition:width .2s,opacity .4s;-o-transition:width .2s,opacity .4s;transition:width .2s,opacity .4s;opacity:1;background-color:#efc14e;z-index:999999}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/.nuxt/components/nuxt-loading.vue"],"names":[],"mappings":"AACA,2BACE,eAAgB,AAChB,MAAS,AACT,OAAU,AACV,QAAW,AACX,WAAY,AACZ,QAAU,AACV,yCAA6C,AAC7C,oCAAwC,AACxC,iCAAqC,AACrC,UAAW,AACX,yBAA0B,AAC1B,cAAgB,CACjB","file":"nuxt-loading.vue","sourcesContent":["\n.progress[data-v-4dab71b3] {\n  position: fixed;\n  top: 0px;\n  left: 0px;\n  right: 0px;\n  height: 2px;\n  width: 0%;\n  -webkit-transition: width 0.2s, opacity 0.4s;\n  -o-transition: width 0.2s, opacity 0.4s;\n  transition: width 0.2s, opacity 0.4s;\n  opacity: 1;\n  background-color: #efc14e;\n  z-index: 999999;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -1242,7 +1242,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(112),
   /* template */
-  __webpack_require__(172),
+  __webpack_require__(171),
   /* styles */
   null,
   /* scopeId */
@@ -1266,11 +1266,11 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(114),
   /* template */
-  __webpack_require__(171),
+  __webpack_require__(172),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-0d7808c1",
+  "data-v-4dab71b3",
   /* moduleIdentifier (server only) */
   null
 )
@@ -1328,14 +1328,14 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
-    staticClass: "progress",
-    style: ({
-      'width': _vm.percent + '%',
-      'height': _vm.height,
-      'background-color': _vm.canSuccess ? _vm.color : _vm.failedColor,
-      'opacity': _vm.show ? 1 : 0
-    })
-  })
+    attrs: {
+      "id": "__nuxt"
+    }
+  }, [_c('nuxt-loading', {
+    ref: "loading"
+  }), (_vm.layout) ? _c(_vm.layout, {
+    tag: "component"
+  }) : _vm._e()], 1)
 },staticRenderFns: []}
 
 /***/ }),
@@ -1345,14 +1345,14 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
-    attrs: {
-      "id": "__nuxt"
-    }
-  }, [_c('nuxt-loading', {
-    ref: "loading"
-  }), (_vm.layout) ? _c(_vm.layout, {
-    tag: "component"
-  }) : _vm._e()], 1)
+    staticClass: "progress",
+    style: ({
+      'width': _vm.percent + '%',
+      'height': _vm.height,
+      'background-color': _vm.canSuccess ? _vm.color : _vm.failedColor,
+      'opacity': _vm.show ? 1 : 0
+    })
+  })
 },staticRenderFns: []}
 
 /***/ }),
@@ -1380,7 +1380,7 @@ var content = __webpack_require__(158);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("15c824f0", content, true);
+var update = __webpack_require__(52)("01285718", content, true);
 
 /***/ }),
 
@@ -1394,7 +1394,7 @@ var content = __webpack_require__(159);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("66b2df18", content, true);
+var update = __webpack_require__(52)("03e283c9", content, true);
 
 /***/ }),
 
@@ -1437,16 +1437,16 @@ webpackContext.id = 183;
 /* harmony export (immutable) */ __webpack_exports__["j"] = getLocation;
 /* unused harmony export urlJoin */
 /* harmony export (immutable) */ __webpack_exports__["c"] = compile;
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_json_stringify__ = __webpack_require__(116);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_json_stringify___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_json_stringify__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof__ = __webpack_require__(48);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_keys__ = __webpack_require__(117);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_keys___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_keys__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_json_stringify__ = __webpack_require__(116);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_json_stringify___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_json_stringify__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof__ = __webpack_require__(48);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_keys__ = __webpack_require__(117);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_keys___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_keys__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_vue__ = __webpack_require__(1);
 
 
@@ -1467,7 +1467,7 @@ function applyAsyncData(Component) {
   var ComponentData = Component.options.data || noopData;
   Component.options.data = function () {
     var data = ComponentData.call(this);
-    return __WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends___default()({}, data, asyncData);
+    return __WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends___default()({}, data, asyncData);
   };
   if (Component._Ctor && Component._Ctor.options) {
     Component._Ctor.options.data = Component.options.data;
@@ -1491,7 +1491,7 @@ function sanitizeComponent(Component) {
 
 function getMatchedComponents(route) {
   return [].concat.apply([], route.matched.map(function (m) {
-    return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_keys___default()(m.components).map(function (key) {
+    return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_keys___default()(m.components).map(function (key) {
       return m.components[key];
     });
   }));
@@ -1499,7 +1499,7 @@ function getMatchedComponents(route) {
 
 function getMatchedComponentsInstances(route) {
   return [].concat.apply([], route.matched.map(function (m) {
-    return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_keys___default()(m.instances).map(function (key) {
+    return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_keys___default()(m.instances).map(function (key) {
       return m.instances[key];
     });
   }));
@@ -1507,7 +1507,7 @@ function getMatchedComponentsInstances(route) {
 
 function flatMapComponents(route, fn) {
   return Array.prototype.concat.apply([], route.matched.map(function (m, index) {
-    return __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_keys___default()(m.components).map(function (key) {
+    return __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_keys___default()(m.components).map(function (key) {
       return fn(m.components[key], m.instances[key], m, key, index);
     });
   }));
@@ -1534,7 +1534,7 @@ function getContext(context, app) {
     if (!status) return;
     ctx._redirected = true; // Used in middleware
     // if only 1 or 2 arguments: redirect('/') or redirect('/', { foo: 'bar' })
-    if (typeof status === 'string' && (typeof path === 'undefined' || (typeof path === 'undefined' ? 'undefined' : __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof___default()(path)) === 'object')) {
+    if (typeof status === 'string' && (typeof path === 'undefined' || (typeof path === 'undefined' ? 'undefined' : __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof___default()(path)) === 'object')) {
       query = path || {};
       path = status;
       status = 302;
@@ -1552,7 +1552,7 @@ function getContext(context, app) {
 
 function middlewareSeries(promises, context) {
   if (!promises.length || context._redirected) {
-    return __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
+    return __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve();
   }
   return promisify(promises[0], context).then(function () {
     return middlewareSeries(promises.slice(1), context);
@@ -1563,7 +1563,7 @@ function promisify(fn, context) {
   var promise = void 0;
   if (fn.length === 2) {
     // fn(context, callback)
-    promise = new __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve) {
+    promise = new __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve) {
       fn(context, function (err, data) {
         if (err) {
           context.error(err);
@@ -1575,8 +1575,8 @@ function promisify(fn, context) {
   } else {
     promise = fn(context);
   }
-  if (!promise || !(promise instanceof __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a) && typeof promise.then !== 'function') {
-    promise = __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(promise);
+  if (!promise || !(promise instanceof __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a) && typeof promise.then !== 'function') {
+    promise = __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a.resolve(promise);
   }
   return promise;
 }
@@ -1730,7 +1730,7 @@ function tokensToFunction(tokens) {
 
   // Compile all the patterns before compilation.
   for (var i = 0; i < tokens.length; i++) {
-    if (__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_typeof___default()(tokens[i]) === 'object') {
+    if (__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_typeof___default()(tokens[i]) === 'object') {
       matches[i] = new RegExp('^(?:' + tokens[i].pattern + ')$');
     }
   }
@@ -1768,7 +1768,7 @@ function tokensToFunction(tokens) {
 
       if (Array.isArray(value)) {
         if (!token.repeat) {
-          throw new TypeError('Expected "' + token.name + '" to not repeat, but received `' + __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_json_stringify___default()(value) + '`');
+          throw new TypeError('Expected "' + token.name + '" to not repeat, but received `' + __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_json_stringify___default()(value) + '`');
         }
 
         if (value.length === 0) {
@@ -1783,7 +1783,7 @@ function tokensToFunction(tokens) {
           segment = encode(value[j]);
 
           if (!matches[i].test(segment)) {
-            throw new TypeError('Expected all "' + token.name + '" to match "' + token.pattern + '", but received `' + __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_json_stringify___default()(segment) + '`');
+            throw new TypeError('Expected all "' + token.name + '" to match "' + token.pattern + '", but received `' + __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_json_stringify___default()(segment) + '`');
           }
 
           path += (j === 0 ? token.prefix : token.delimiter) + segment;
@@ -1892,7 +1892,7 @@ var Component = __webpack_require__(20)(
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-09ceea66",
+  "data-v-2695883f",
   /* moduleIdentifier (server only) */
   null
 )
@@ -1907,16 +1907,16 @@ module.exports = Component.exports
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return createApp; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_vue__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_vue_meta__ = __webpack_require__(49);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_vue_meta___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_vue_meta__);
@@ -1941,9 +1941,9 @@ module.exports = Component.exports
 
 
 var createApp = function () {
-  var _ref = __WEBPACK_IMPORTED_MODULE_4__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(ssrContext) {
+  var _ref = __WEBPACK_IMPORTED_MODULE_4__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_asyncToGenerator___default()(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.mark(function _callee(ssrContext) {
     var store, router, app, ctx;
-    return __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
+    return __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_regenerator___default.a.wrap(function _callee$(_context) {
       while (1) {
         switch (_context.prev = _context.next) {
           case 0:
@@ -1956,7 +1956,7 @@ var createApp = function () {
             }
 
             _context.next = 5;
-            return new __WEBPACK_IMPORTED_MODULE_3__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve, reject) {
+            return new __WEBPACK_IMPORTED_MODULE_3__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_promise___default.a(function (resolve, reject) {
               router.push(ssrContext.url, resolve, reject);
             });
 
@@ -1973,7 +1973,7 @@ var createApp = function () {
             // root instance
             // here we inject the router and store to all child components,
             // making them available everywhere as `this.$router` and `this.$store`.
-            app = __WEBPACK_IMPORTED_MODULE_2__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_helpers_extends___default()({
+            app = __WEBPACK_IMPORTED_MODULE_2__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_helpers_extends___default()({
               router: router,
               store: store,
               _nuxt: {
@@ -1987,9 +1987,9 @@ var createApp = function () {
                     if (!transition) {
                       transition = defaultTransition;
                     } else if (typeof transition === 'string') {
-                      transition = __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign___default()({}, defaultTransition, { name: transition });
+                      transition = __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign___default()({}, defaultTransition, { name: transition });
                     } else {
-                      transition = __WEBPACK_IMPORTED_MODULE_1__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_object_assign___default()({}, defaultTransition, transition);
+                      transition = __WEBPACK_IMPORTED_MODULE_1__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_object_assign___default()({}, defaultTransition, transition);
                     }
                     return transition;
                   });
@@ -2109,8 +2109,8 @@ var defaultTransition = { "name": "page", "mode": "out-in" };
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator__);
 
 
 var files = __webpack_require__(86);
@@ -2128,7 +2128,7 @@ var _didIteratorError = false;
 var _iteratorError = undefined;
 
 try {
-  for (var _iterator = __WEBPACK_IMPORTED_MODULE_0__Applications_MAMP_htdocs_contentavuenuxt_node_modules_babel_runtime_core_js_get_iterator___default()(filenames), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
+  for (var _iterator = __WEBPACK_IMPORTED_MODULE_0__Users_jeanfei_web_projects_demos_contenta_vue_nuxt_node_modules_babel_runtime_core_js_get_iterator___default()(filenames), _step; !(_iteratorNormalCompletion = (_step = _iterator.next()).done); _iteratorNormalCompletion = true) {
     var filename = _step.value;
 
     var name = filename.replace(/^\.\//, '').replace(/\.(js|ts)$/, '');
