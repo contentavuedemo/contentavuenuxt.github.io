@@ -7,7 +7,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(244),
   /* template */
-  __webpack_require__(300),
+  __webpack_require__(281),
   /* styles */
   null,
   /* scopeId */
@@ -35,7 +35,7 @@ var Component = __webpack_require__(20)(
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-7ebe5011",
+  "data-v-555acb03",
   /* moduleIdentifier (server only) */
   null
 )
@@ -53,7 +53,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, "section[data-v-7ebe5011]{margin-bottom:10vh}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppSection.vue"],"names":[],"mappings":"AACA,yBACE,kBAAoB,CACrB","file":"AppSection.vue","sourcesContent":["\nsection[data-v-7ebe5011] {\n  margin-bottom: 10vh;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "section[data-v-555acb03]{margin-bottom:10vh}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppSection.vue"],"names":[],"mappings":"AACA,yBACE,kBAAoB,CACrB","file":"AppSection.vue","sourcesContent":["\nsection[data-v-555acb03] {\n  margin-bottom: 10vh;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -79,7 +79,7 @@ var content = __webpack_require__(195);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("91793158", content, true);
+var update = __webpack_require__(52)("f2165c5c", content, true);
 
 /***/ }),
 
@@ -142,7 +142,7 @@ var Component = __webpack_require__(20)(
   /* script */
   null,
   /* template */
-  __webpack_require__(291),
+  __webpack_require__(294),
   /* styles */
   null,
   /* scopeId */
@@ -163,7 +163,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(234),
   /* template */
-  __webpack_require__(285),
+  __webpack_require__(288),
   /* styles */
   null,
   /* scopeId */
@@ -177,7 +177,16 @@ module.exports = Component.exports
 
 /***/ }),
 
-/***/ 285:
+/***/ 281:
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('PageContact')
+},staticRenderFns: []}
+
+/***/ }),
+
+/***/ 288:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -196,7 +205,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ }),
 
-/***/ 291:
+/***/ 294:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -248,15 +257,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "button is-primary"
   }, [_vm._v("\n      Envoyer\n    ")])])])
 }]}
-
-/***/ }),
-
-/***/ 300:
-/***/ (function(module, exports) {
-
-module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('PageContact')
-},staticRenderFns: []}
 
 /***/ })
 

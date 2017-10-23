@@ -7,7 +7,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(243),
   /* template */
-  __webpack_require__(297),
+  __webpack_require__(303),
   /* styles */
   null,
   /* scopeId */
@@ -140,7 +140,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".socket[data-v-0e92dff2]{padding:2rem 0;background:#f5f5f5}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppFooterSocket.vue"],"names":[],"mappings":"AACA,yBACE,eAAe,AACf,kBAAuB,CACxB","file":"AppFooterSocket.vue","sourcesContent":["\n.socket[data-v-0e92dff2] {\n  padding:2rem 0;\n  background: whitesmoke;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".footer[data-v-03acf5ed]{background:#eee}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppFooter.vue"],"names":[],"mappings":"AACA,yBACE,eAAgB,CACjB","file":"AppFooter.vue","sourcesContent":["\n.footer[data-v-03acf5ed] {\n  background: #EEE\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -155,14 +155,14 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, "@media screen and (max-width:999px){.navbar-end[data-v-45081dd0]{padding:.5rem 1rem}.navbar-menu[data-v-45081dd0]{display:block;overflow:hidden;max-height:0;padding:0 1rem;-webkit-transition:max-height .2s;-o-transition:max-height .2s;transition:max-height .2s}.navbar-menu.is-active[data-v-45081dd0]{max-height:100vh;-webkit-transition:max-height .5s;-o-transition:max-height .5s;transition:max-height .5s}}.nuxt-link-exact-active[data-v-45081dd0]{color:#363636}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppNavigation.vue"],"names":[],"mappings":"AAiDA,oCACA,6BACI,kBAAoB,CACvB,AACD,8BACI,cAAe,AACf,gBAAiB,AACjB,aAAgB,AAChB,eAAmB,AACnB,kCAAmC,AACnC,6BAA8B,AAC9B,yBAA4B,CAC/B,AACD,wCACI,iBAAkB,AAClB,kCAAmC,AACnC,6BAA8B,AAC9B,yBAA4B,CAC/B,CACA,AACD,yCACE,aAAe,CAChB","file":"AppNavigation.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* Create slide animation on mobile */\n@media screen and (max-width: 999px) {\n.navbar-end[data-v-45081dd0] {\n    padding:0.5rem 1rem;\n}\n.navbar-menu[data-v-45081dd0] {\n    display: block;\n    overflow: hidden;\n    max-height: 0px;\n    padding: 0rem 1rem;\n    -webkit-transition:max-height 0.2s;\n    -o-transition:max-height 0.2s;\n    transition: max-height 0.2s;\n}\n.navbar-menu.is-active[data-v-45081dd0] {\n    max-height: 100vh;\n    -webkit-transition:max-height 0.5s;\n    -o-transition:max-height 0.5s;\n    transition: max-height 0.5s;\n}\n}\n.nuxt-link-exact-active[data-v-45081dd0] {\n  color: #363636;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "@media screen and (max-width:999px){.navbar-end[data-v-694338e6]{padding:.5rem 1rem}.navbar-menu[data-v-694338e6]{display:block;overflow:hidden;max-height:0;padding:0 1rem;-webkit-transition:max-height .2s;-o-transition:max-height .2s;transition:max-height .2s}.navbar-menu.is-active[data-v-694338e6]{max-height:100vh;-webkit-transition:max-height .5s;-o-transition:max-height .5s;transition:max-height .5s}}.nuxt-link-exact-active[data-v-694338e6]{color:#363636}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppNavigation.vue"],"names":[],"mappings":"AAiDA,oCACA,6BACI,kBAAoB,CACvB,AACD,8BACI,cAAe,AACf,gBAAiB,AACjB,aAAgB,AAChB,eAAmB,AACnB,kCAAmC,AACnC,6BAA8B,AAC9B,yBAA4B,CAC/B,AACD,wCACI,iBAAkB,AAClB,kCAAmC,AACnC,6BAA8B,AAC9B,yBAA4B,CAC/B,CACA,AACD,yCACE,aAAe,CAChB","file":"AppNavigation.vue","sourcesContent":["\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n/* Create slide animation on mobile */\n@media screen and (max-width: 999px) {\n.navbar-end[data-v-694338e6] {\n    padding:0.5rem 1rem;\n}\n.navbar-menu[data-v-694338e6] {\n    display: block;\n    overflow: hidden;\n    max-height: 0px;\n    padding: 0rem 1rem;\n    -webkit-transition:max-height 0.2s;\n    -o-transition:max-height 0.2s;\n    transition: max-height 0.2s;\n}\n.navbar-menu.is-active[data-v-694338e6] {\n    max-height: 100vh;\n    -webkit-transition:max-height 0.5s;\n    -o-transition:max-height 0.5s;\n    transition: max-height 0.5s;\n}\n}\n.nuxt-link-exact-active[data-v-694338e6] {\n  color: #363636;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
 
 /***/ }),
 
-/***/ 253:
+/***/ 254:
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(51)(true);
@@ -170,14 +170,14 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".app-top-bar[data-v-4f1002fc]{padding:.5rem 0;background:#f5f5f5}.level-item[data-v-4f1002fc]{padding:0 .75rem}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppTopBar.vue"],"names":[],"mappings":"AACA,8BACE,gBAAkB,AAClB,kBAAsB,CACvB,AACD,6BACE,gBAAqB,CACtB","file":"AppTopBar.vue","sourcesContent":["\n.app-top-bar[data-v-4f1002fc] {\n  padding: 0.5rem 0;\n  background: whitesmoke\n}\n.level-item[data-v-4f1002fc] {\n  padding: 0rem 0.75rem\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".app-top-bar[data-v-6bc75d50]{padding:.5rem 0;background:#f5f5f5}.level-item[data-v-6bc75d50]{padding:0 .75rem}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppTopBar.vue"],"names":[],"mappings":"AACA,8BACE,gBAAkB,AAClB,kBAAsB,CACvB,AACD,6BACE,gBAAqB,CACtB","file":"AppTopBar.vue","sourcesContent":["\n.app-top-bar[data-v-6bc75d50] {\n  padding: 0.5rem 0;\n  background: whitesmoke\n}\n.level-item[data-v-6bc75d50] {\n  padding: 0rem 0.75rem\n}\n"],"sourceRoot":""}]);
 
 // exports
 
 
 /***/ }),
 
-/***/ 256:
+/***/ 255:
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(51)(true);
@@ -185,7 +185,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, ".footer[data-v-705d971f]{background:#eee}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppFooter.vue"],"names":[],"mappings":"AACA,yBACE,eAAgB,CACjB","file":"AppFooter.vue","sourcesContent":["\n.footer[data-v-705d971f] {\n  background: #EEE\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".socket[data-v-74b12780]{padding:2rem 0;background:#f5f5f5}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppFooterSocket.vue"],"names":[],"mappings":"AACA,yBACE,eAAe,AACf,kBAAuB,CACxB","file":"AppFooterSocket.vue","sourcesContent":["\n.socket[data-v-74b12780] {\n  padding:2rem 0;\n  background: whitesmoke;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -196,17 +196,17 @@ exports.push([module.i, ".footer[data-v-705d971f]{background:#eee}", "", {"versi
 /***/ (function(module, exports, __webpack_require__) {
 
 function injectStyle (ssrContext) {
-  __webpack_require__(311)
+  __webpack_require__(306)
 }
 var Component = __webpack_require__(20)(
   /* script */
   null,
   /* template */
-  __webpack_require__(294),
+  __webpack_require__(279),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-705d971f",
+  "data-v-03acf5ed",
   /* moduleIdentifier (server only) */
   null
 )
@@ -220,17 +220,17 @@ module.exports = Component.exports
 /***/ (function(module, exports, __webpack_require__) {
 
 function injectStyle (ssrContext) {
-  __webpack_require__(306)
+  __webpack_require__(310)
 }
 var Component = __webpack_require__(20)(
   /* script */
   null,
   /* template */
-  __webpack_require__(280),
+  __webpack_require__(300),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-0e92dff2",
+  "data-v-74b12780",
   /* moduleIdentifier (server only) */
   null
 )
@@ -250,11 +250,11 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(229),
   /* template */
-  __webpack_require__(286),
+  __webpack_require__(295),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-45081dd0",
+  "data-v-694338e6",
   /* moduleIdentifier (server only) */
   null
 )
@@ -268,17 +268,17 @@ module.exports = Component.exports
 /***/ (function(module, exports, __webpack_require__) {
 
 function injectStyle (ssrContext) {
-  __webpack_require__(308)
+  __webpack_require__(309)
 }
 var Component = __webpack_require__(20)(
   /* script */
   null,
   /* template */
-  __webpack_require__(288),
+  __webpack_require__(297),
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-4f1002fc",
+  "data-v-6bc75d50",
   /* moduleIdentifier (server only) */
   null
 )
@@ -295,7 +295,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(230),
   /* template */
-  __webpack_require__(305),
+  __webpack_require__(291),
   /* styles */
   null,
   /* scopeId */
@@ -309,38 +309,41 @@ module.exports = Component.exports
 
 /***/ }),
 
-/***/ 280:
+/***/ 279:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _vm._m(0)
-},staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('div', {
-    staticClass: "socket"
+  return _c('footer', {
+    staticClass: "footer"
   }, [_c('div', {
     staticClass: "container"
-  }, [_c('p', [_c('strong', [_vm._v("Umami magazine & Umami publications")]), _vm._v(" is a fictionnal magazine and publisher for illustrative purposes only.\n    ")]), _c('div', [_vm._v("\n      Icons made by\n      "), _c('a', {
+  }, [_c('div', {
+    staticClass: "columns"
+  }, [_c('div', {
+    staticClass: "column"
+  }, [_vm._v("\n        Umami publication example footer content\n      ")]), _c('div', {
+    staticClass: "column"
+  }, [_c('ul', [_c('li', [_c('nuxt-link', {
     attrs: {
-      "href": "http://www.flaticon.com/authors/pixel-perfect",
-      "title": "Pixel perfect"
+      "to": "/contact"
     }
-  }, [_vm._v("Pixel perfect")]), _vm._v(" from\n      "), _c('a', {
-    attrs: {
-      "href": "http://www.flaticon.com",
-      "title": "Flaticon"
-    }
-  }, [_vm._v("www.flaticon.com")]), _vm._v(" is licensed by\n      "), _c('a', {
-    attrs: {
-      "href": "http://creativecommons.org/licenses/by/3.0/",
-      "title": "Creative Commons BY 3.0",
-      "target": "_blank"
-    }
-  }, [_vm._v("CC 3.0 BY")])])])])
-}]}
+  }, [_vm._v("Get in touch")])], 1), _c('li', [_vm._v("About the Umami Drupal Theme")])])])])])])
+},staticRenderFns: []}
 
 /***/ }),
 
-/***/ 286:
+/***/ 291:
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', [_c('small', {
+    staticClass: "app-version"
+  }, [_vm._v(" " + _vm._s(_vm.packageJson.version) + " ")])])
+},staticRenderFns: []}
+
+/***/ }),
+
+/***/ 295:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -398,7 +401,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ }),
 
-/***/ 288:
+/***/ 297:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -423,45 +426,42 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ }),
 
-/***/ 294:
+/***/ 300:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('footer', {
-    staticClass: "footer"
+  return _vm._m(0)
+},staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('div', {
+    staticClass: "socket"
   }, [_c('div', {
     staticClass: "container"
-  }, [_c('div', {
-    staticClass: "columns"
-  }, [_c('div', {
-    staticClass: "column"
-  }, [_vm._v("\n        Umami publication example footer content\n      ")]), _c('div', {
-    staticClass: "column"
-  }, [_c('ul', [_c('li', [_c('nuxt-link', {
+  }, [_c('p', [_c('strong', [_vm._v("Umami magazine & Umami publications")]), _vm._v(" is a fictionnal magazine and publisher for illustrative purposes only.\n    ")]), _c('div', [_vm._v("\n      Icons made by\n      "), _c('a', {
     attrs: {
-      "to": "/contact"
+      "href": "http://www.flaticon.com/authors/pixel-perfect",
+      "title": "Pixel perfect"
     }
-  }, [_vm._v("Get in touch")])], 1), _c('li', [_vm._v("About the Umami Drupal Theme")])])])])])])
-},staticRenderFns: []}
+  }, [_vm._v("Pixel perfect")]), _vm._v(" from\n      "), _c('a', {
+    attrs: {
+      "href": "http://www.flaticon.com",
+      "title": "Flaticon"
+    }
+  }, [_vm._v("www.flaticon.com")]), _vm._v(" is licensed by\n      "), _c('a', {
+    attrs: {
+      "href": "http://creativecommons.org/licenses/by/3.0/",
+      "title": "Creative Commons BY 3.0",
+      "target": "_blank"
+    }
+  }, [_vm._v("CC 3.0 BY")])])])])
+}]}
 
 /***/ }),
 
-/***/ 297:
+/***/ 303:
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', [_c('AppNavigation'), _c('nuxt'), _c('AppFooterSocket')], 1)
-},staticRenderFns: []}
-
-/***/ }),
-
-/***/ 305:
-/***/ (function(module, exports) {
-
-module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('div', [_c('small', {
-    staticClass: "app-version"
-  }, [_vm._v(" " + _vm._s(_vm.packageJson.version) + " ")])])
 },staticRenderFns: []}
 
 /***/ }),
@@ -476,7 +476,7 @@ var content = __webpack_require__(251);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("60d3e77d", content, true);
+var update = __webpack_require__(52)("d3c8c432", content, true);
 
 /***/ }),
 
@@ -490,35 +490,35 @@ var content = __webpack_require__(252);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("42846a63", content, true);
+var update = __webpack_require__(52)("5cf43c5a", content, true);
 
 /***/ }),
 
-/***/ 308:
+/***/ 309:
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(253);
+var content = __webpack_require__(254);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("623351be", content, true);
+var update = __webpack_require__(52)("dfae004a", content, true);
 
 /***/ }),
 
-/***/ 311:
+/***/ 310:
 /***/ (function(module, exports, __webpack_require__) {
 
 // style-loader: Adds some css to the DOM by adding a <style> tag
 
 // load the styles
-var content = __webpack_require__(256);
+var content = __webpack_require__(255);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("50e25a22", content, true);
+var update = __webpack_require__(52)("d7e1576c", content, true);
 
 /***/ }),
 
@@ -527,7 +527,7 @@ var update = __webpack_require__(52)("50e25a22", content, true);
 
 module.exports = {
 	"name": "contenta_vue_nuxt",
-	"version": "0.8.1",
+	"version": "0.8.3",
 	"description": "Nuxt.js client for Contenta CMS",
 	"author": "yann <yann@yineo.fr>",
 	"private": true,

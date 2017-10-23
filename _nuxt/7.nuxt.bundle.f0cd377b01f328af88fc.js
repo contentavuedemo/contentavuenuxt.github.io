@@ -7,7 +7,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(250),
   /* template */
-  __webpack_require__(279),
+  __webpack_require__(305),
   /* styles */
   null,
   /* scopeId */
@@ -35,7 +35,7 @@ var Component = __webpack_require__(20)(
   /* styles */
   injectStyle,
   /* scopeId */
-  "data-v-7ebe5011",
+  "data-v-555acb03",
   /* moduleIdentifier (server only) */
   null
 )
@@ -53,7 +53,7 @@ exports = module.exports = __webpack_require__(51)(true);
 
 
 // module
-exports.push([module.i, "section[data-v-7ebe5011]{margin-bottom:10vh}", "", {"version":3,"sources":["/Applications/MAMP/htdocs/contentavuenuxt/components/AppSection.vue"],"names":[],"mappings":"AACA,yBACE,kBAAoB,CACrB","file":"AppSection.vue","sourcesContent":["\nsection[data-v-7ebe5011] {\n  margin-bottom: 10vh;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "section[data-v-555acb03]{margin-bottom:10vh}", "", {"version":3,"sources":["/Users/jeanfei/web/projects/demos/contenta_vue_nuxt/components/AppSection.vue"],"names":[],"mappings":"AACA,yBACE,kBAAoB,CACrB","file":"AppSection.vue","sourcesContent":["\nsection[data-v-555acb03] {\n  margin-bottom: 10vh;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -79,7 +79,7 @@ var content = __webpack_require__(195);
 if(typeof content === 'string') content = [[module.i, content, '']];
 if(content.locals) module.exports = content.locals;
 // add the styles to the DOM
-var update = __webpack_require__(52)("91793158", content, true);
+var update = __webpack_require__(52)("f2165c5c", content, true);
 
 /***/ }),
 
@@ -140,7 +140,7 @@ var Component = __webpack_require__(20)(
   /* script */
   __webpack_require__(240),
   /* template */
-  __webpack_require__(289),
+  __webpack_require__(299),
   /* styles */
   null,
   /* scopeId */
@@ -154,16 +154,7 @@ module.exports = Component.exports
 
 /***/ }),
 
-/***/ 279:
-/***/ (function(module, exports) {
-
-module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
-  return _c('PageServerUnreachable')
-},staticRenderFns: []}
-
-/***/ }),
-
-/***/ 289:
+/***/ 299:
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -171,11 +162,20 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "has-text-centered container"
   }, [_c('appSection', [_c('h1', {
     staticClass: "title is-4"
-  }, [_vm._v("Sorry, our API server is unreachable for now ")]), _c('img', {
+  }, [_vm._v("Sorry, we can't reach server API for now. ")]), _c('img', {
     attrs: {
       "src": __webpack_require__(260)
     }
   })])], 1)
+},staticRenderFns: []}
+
+/***/ }),
+
+/***/ 305:
+/***/ (function(module, exports) {
+
+module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
+  return _c('PageServerUnreachable')
 },staticRenderFns: []}
 
 /***/ })
